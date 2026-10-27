@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.message-btn {
+    @apply text-purple-400 m-3 border border-black rounded-lg border-2 hover:bg-pink-300 hover:text-white focus:outline-dashed active:bg-red-400
+}
+
+
+
+
